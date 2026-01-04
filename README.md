@@ -35,6 +35,9 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 
 ---
 
-### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=dark&count_private=true)
+### 🔥 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OPS-Samurai&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPS-Samurai&layout=compact&theme=dark)
