@@ -37,4 +37,4 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 
 ### 📈 GitHub Stats
 
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=dark&count_private=true)
