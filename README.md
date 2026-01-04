@@ -2,7 +2,7 @@
 
 ### Senior System Administrator 
 
-I am a Senior SysAdmin with a passion for IT security and automation. My approach is structured and analytical (ISTJ), focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
+I am a Senior SysAdmin with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
 
 ---
 
