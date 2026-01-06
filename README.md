@@ -40,8 +40,12 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 
 ## 📊 System Metrics & Infrastructure
 <div align="center">
-  <img src="https://metrics.lecoq.io/OPS-Samurai?template=terminal&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&languages=1&languages.limit=8&languages.threshold=0%&intro=1" alt="OPS-Samurai Metrics" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Initializing+Jarvis+Core...;Scanning+Repositories...;Status:+OPERATIONAL+%E2%9C%85;User:+OPS-Samurai" alt="Typing SVG" />
+  </a>
 </div>
+
+> *Hinweis: Die Live-Statistiken sind derzeit aufgrund eines globalen API-Ausfalls deaktiviert (Maintenance Mode). Diagramme kehren zurück, sobald die Dienste stabil sind.*
 
 ### 🔧 Workspace Architecture (Standard: C:\Git)
 All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
