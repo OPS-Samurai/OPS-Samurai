@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=750&height=100&lines=OPS-Samurai+%7C+System+Administrator;Status:+Operational+%E2%9C%85+%7C+Level:+Senior+SysAdmin;Location:+Sector-C-Git" alt="Jarvis Header Animation" />
 </div>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
 ---
 
 # Hi there, I'm Nelson 👋
@@ -66,9 +70,3 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 - 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
 - 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
 > *"I am Iron Man."* — Orchestrated by Jarvis AI.
-
-
-## 🏙️ Contribution Architecture
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
