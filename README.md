@@ -66,8 +66,3 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 - 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
 - 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
 > *"I am Iron Man."* — Orchestrated by Jarvis AI.
-
-``
-## 🏆 OPS-Samurai Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=OPS-Samurai&theme=onestar&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-``
