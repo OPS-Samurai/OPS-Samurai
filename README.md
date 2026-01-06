@@ -1,5 +1,6 @@
-# 🦅 OPS-Samurai | System Core
-`Status: Operational` 🟢 | `Version: 2.0.26` | `Location: Sector-C-Git`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=750&height=100&lines=OPS-Samurai+%7C+System+Administrator;Status:+Operational+%E2%9C%85+%7C+Level:+Senior+SysAdmin;Location:+Sector-C-Git" alt="Jarvis Header Animation" />
+</div>
 
 ---
 
