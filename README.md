@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=750&height=100&lines=OPS-Samurai+%7C+System+Administrator;Status:+Operational+%E2%9C%85+%7C+Level:+Senior+SysAdmin;Location:+Sector-C-Git" alt="Jarvis Header Animation" />
 </div>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
 ---
 
 # Hi there, I'm Nelson 👋
@@ -51,7 +47,11 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
   </a>
 </div>
 
-> *Hinweis: Die Live-Statistiken sind derzeit aufgrund eines globalen API-Ausfalls deaktiviert (Maintenance Mode). Diagramme kehren zurück, sobald die Dienste stabil sind.*
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+---
 
 ### 🔧 Workspace Architecture (Standard: C:\Git)
 All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
