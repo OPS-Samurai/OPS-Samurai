@@ -1,3 +1,8 @@
+# 🦅 OPS-Samurai | System Core
+`Status: Operational` 🟢 | `Version: 2.0.26` | `Location: Sector-C-Git`
+
+---
+
 # Hi there, I'm Nelson 👋
 
 ### Senior System Administrator 
@@ -33,11 +38,27 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 
 ---
 
-### 🔭 Current Projects
+## 📊 System Metrics & Infrastructure
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPS-Samurai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-* **WebScraper Tools:** Custom Python automation for data extraction (Public).
-* **Security Labs:** Private sandboxes for CTF challenges and exploit analysis.
+### 🔧 Workspace Architecture (Standard: C:\Git)
+All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
+
+| Repository | Focus & Purpose | Status |
+| :--- | :--- | :--- |
+| **[OPS-Systems](https://github.com/OPS-Samurai/OPS-Systems)** | Core configurations, profile logic & cross-platform sync. | `Stable` |
+| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers (YAML export) & network scanning tools. | `Active` |
+| **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for system auditing and red-teaming. | `Testing` |
 
 ---
 
+## ⚡ Current Focus & Personal
+- 🧠 Integrating local **System-DNA (YAML)** into AI-driven workflows (Gemini CLI).
+- 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
+- 🎮 Fan of **Marvel & DC** universes. Tactical gamer in high-pressure matches.
+
+> *"I am Iron Man."* — Orchestrated by Jarvis AI.
 
