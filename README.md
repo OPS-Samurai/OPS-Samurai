@@ -66,3 +66,9 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 - 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
 - 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
 > *"I am Iron Man."* — Orchestrated by Jarvis AI.
+
+
+## 🏙️ Contribution Architecture
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
