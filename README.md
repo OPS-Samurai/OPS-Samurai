@@ -39,10 +39,8 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 ---
 
 ## 📊 System Metrics & Infrastructure
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPS-Samurai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPS-Samurai&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🔧 Workspace Architecture (Standard: C:\Git)
 All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
@@ -58,7 +56,7 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 ## ⚡ Current Focus & Personal
 - 🧠 Integrating local **System-DNA (YAML)** into AI-driven workflows (Gemini CLI).
 - 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
-- 🎮 Fan of **Marvel & DC** universes. Tactical gamer in high-pressure matches.
-
+- 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
+- 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
 > *"I am Iron Man."* — Orchestrated by Jarvis AI.
 
