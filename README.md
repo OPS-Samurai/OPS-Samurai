@@ -39,8 +39,9 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 ---
 
 ## 📊 System Metrics & Infrastructure
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPS-Samurai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPS-Samurai&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://metrics.lecoq.io/OPS-Samurai?template=terminal&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&languages=1&languages.limit=8&languages.threshold=0%&intro=1" alt="OPS-Samurai Metrics" />
+</div>
 
 ### 🔧 Workspace Architecture (Standard: C:\Git)
 All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
