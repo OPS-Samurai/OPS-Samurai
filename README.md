@@ -87,7 +87,8 @@
   🧠 Integrating local <b>System-DNA (YAML)</b> into AI-driven workflows.<br>
   🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.<br>
   🔧 Precision mechanics meets PowerShell infrastructure.<br>
-  🦸‍♂️ <b>Marvel & DC</b> enthusiast. Tactical gamer.
+  🦸‍♂️ <b>Marvel & DC</b> enthusiast.
+  🎮 Tactical Gamer.
 </div>
 
 <p align="center">
