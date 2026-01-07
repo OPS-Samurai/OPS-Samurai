@@ -6,7 +6,9 @@
 
 <h2 align="center">Hi there, I'm Nelson 👋</h2>
 
-I am a Senior System Administrator with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
+<p align="center">
+  I am a Senior System Administrator with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
+</p>
 
 ---
 
@@ -32,10 +34,14 @@ I am a Senior System Administrator with a passion for IT security and automation
 
 <h3 align="center">📚 Currently Learning & Improving</h3>
 
-*Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.*
+<p align="center">
+  <i>Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.</i>
+</p>
 
-* **Cybersecurity & Hacking:** Active studies via Udemy, LinkedIn Learning & Coursera.
-* **Methodology:** OSINT, Network Analysis, System Hardening.
+<div align="center">
+  <b>Cybersecurity & Hacking:</b> Active studies via Udemy, LinkedIn Learning & Coursera.<br>
+  <b>Methodology:</b> OSINT, Network Analysis, System Hardening.
+</div>
 
 ---
 
@@ -55,7 +61,9 @@ I am a Senior System Administrator with a passion for IT security and automation
 
 <h3 align="center">🔧 Workspace Architecture (Standard: C:\Git)</h3>
 
-All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across specialized repositories:
+<p align="center">All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
+
+<div align="center">
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
@@ -64,14 +72,18 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 | **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for auditing & red-teaming. | `Testing` |
 | **[OPS-Samurai](https://github.com/OPS-Samurai/OPS-Samurai)** | Profile repository & Central Documentation. | `Operational` |
 
+</div>
+
 ---
 
 <h2 align="center">⚡ Current Focus & Personal</h2>
 
-* 🧠 Integrating local **System-DNA (YAML)** into AI-driven workflows (Gemini CLI).
-* 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
-* 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to IT infrastructure.
-* 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
+<div align="center">
+  🧠 Integrating local <b>System-DNA (YAML)</b> into AI-driven workflows.<br>
+  🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.<br>
+  🔧 Precision mechanics meets PowerShell infrastructure.<br>
+  🦸‍♂️ <b>Marvel & DC</b> enthusiast. Tactical gamer.
+</div>
 
 <p align="center">
   <br>
