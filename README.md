@@ -4,20 +4,15 @@
 
 ---
 
-<h1 align="center">Hi there, I'm Nelson 👋</h1>
+<h2 align="center">Hi there, I'm Nelson 👋</h2>
 
-<h3 align="center">Senior System Administrator</h3>
-
-<p align="center">
 I am a Senior System Administrator with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
-</p>
 
 ---
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <b>Languages & Scripting</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -26,7 +21,6 @@ I am a Senior System Administrator with a passion for IT security and automation
 </p>
 
 <p align="center">
-  <b>Systems & Operations</b><br>
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -37,18 +31,16 @@ I am a Senior System Administrator with a passion for IT security and automation
 ---
 
 <h3 align="center">📚 Currently Learning & Improving</h3>
-<p align="center"><i>Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.</i></p>
 
-<div align="center">
-  <ul>
-    <li style="list-style: none;"><b>Cybersecurity & Hacking:</b> Active studies via Udemy, LinkedIn Learning & Coursera.</li>
-    <li style="list-style: none;"><b>Methodology:</b> OSINT, Network Analysis, System Hardening.</li>
-  </ul>
-</div>
+*Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.*
+
+* **Cybersecurity & Hacking:** Active studies via Udemy, LinkedIn Learning & Coursera.
+* **Methodology:** OSINT, Network Analysis, System Hardening.
 
 ---
 
-<h2 align="center">📊 System Metrics & Infrastructure</h2>
+<h3 align="center">📊 System Metrics & Infrastructure</h3>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Initializing+Jarvis+Core...;Scanning+Repositories...;Status:+OPERATIONAL+%E2%9C%85;User:+OPS-Samurai" alt="Typing SVG" />
@@ -62,9 +54,8 @@ I am a Senior System Administrator with a passion for IT security and automation
 ---
 
 <h3 align="center">🔧 Workspace Architecture (Standard: C:\Git)</h3>
-<p align="center">All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
 
-<div align="center">
+All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across specialized repositories:
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
@@ -73,19 +64,14 @@ I am a Senior System Administrator with a passion for IT security and automation
 | **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for auditing & red-teaming. | `Testing` |
 | **[OPS-Samurai](https://github.com/OPS-Samurai/OPS-Samurai)** | Profile repository & Central Documentation. | `Operational` |
 
-</div>
-
 ---
 
 <h2 align="center">⚡ Current Focus & Personal</h2>
-<div align="center">
-  <ul style="display: inline-block; text-align: left;">
-    <li>🧠 Integrating local <b>System-DNA (YAML)</b> into AI workflows.</li>
-    <li>🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.</li>
-    <li>🔧 Precision mechanics meets PowerShell infrastructure.</li>
-    <li>🦸‍♂️ <b>Marvel & DC</b> enthusiast. Tactical gamer.</li>
-  </ul>
-</div>
+
+* 🧠 Integrating local **System-DNA (YAML)** into AI-driven workflows (Gemini CLI).
+* 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
+* 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to IT infrastructure.
+* 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
 
 <p align="center">
   <br>
