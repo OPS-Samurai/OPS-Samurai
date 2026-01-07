@@ -73,9 +73,10 @@
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
 | **[OPS-Systems](https://github.com/OPS-Samurai/OPS-Systems)** | Core configurations & cross-platform sync. | `Stable` |
-| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers & network scanning tools. | `Active` |
-| **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for auditing & red-teaming. | `Testing` |
-| **[OPS-Samurai](https://github.com/OPS-Samurai/OPS-Samurai)** | Profile repository & Central Documentation. | `Operational` |
+| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers & data extraction. | `Active` |
+| **[PowerShell-Toolkit](https://github.com/OPS-Samurai/PowerShell-Toolkit)** | General administration & shell utilities. | `Stable` |
+| **[Network-Security-Tools](https://github.com/OPS-Samurai/Network-Security-Tools)** | Public network analysis & hardening tools. | `Active` |
+| **[Bash-Toolkit](https://github.com/OPS-Samurai/Bash-Toolkit)** | Linux automation & server management scripts. | `Stable` |
 
 </div>
 
