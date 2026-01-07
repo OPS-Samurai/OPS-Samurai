@@ -58,9 +58,9 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
-| **[OPS-Systems](https://github.com/OPS-Samurai/OPS-Systems)** | Core configurations, profile logic & cross-platform sync. | `Stable` |
-| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers (YAML export) & network scanning tools. | `Active` |
-| **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for system auditing and red-teaming. | `Testing` |
+| **[OPS-Systems](../OPS-Systems)** | Core configurations, profile logic & cross-platform sync. | `Stable` |
+| **[Python-Tools](../Python-Tools)** | Automation helpers (YAML export) & network scanning tools. | `Active` |
+| **[PowerShell-Offensive](../PowerShell-Offensive)** | Specialized scripts for system auditing and red-teaming. | `Testing` |
 
 ---
 
