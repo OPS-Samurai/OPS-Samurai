@@ -4,67 +4,90 @@
 
 ---
 
-# Hi there, I'm Nelson 👋
+<h1 align="center">Hi there, I'm Nelson 👋</h1>
 
-### Senior System Administrator 
+<h3 align="center">Senior System Administrator</h3>
 
-I am a Senior SysAdmin with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Systems & Operations**
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+I am a Senior System Administrator with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
+</p>
 
 ---
 
-### 📚 Currently Learning & Improving
-*Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.*
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-* **Cybersecurity & Hacking:** Active studies via Udemy, LinkedIn Learning & Coursera.
-* **Methodology:** OSINT, Network Analysis, System Hardening.
+<p align="center">
+  <b>Languages & Scripting</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Systems & Operations</b><br>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📊 System Metrics & Infrastructure
+<h3 align="center">📚 Currently Learning & Improving</h3>
+<p align="center"><i>Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.</i></p>
+
+<div align="center">
+  <ul>
+    <li style="list-style: none;"><b>Cybersecurity & Hacking:</b> Active studies via Udemy, LinkedIn Learning & Coursera.</li>
+    <li style="list-style: none;"><b>Methodology:</b> OSINT, Network Analysis, System Hardening.</li>
+  </ul>
+</div>
+
+---
+
+<h2 align="center">📊 System Metrics & Infrastructure</h2>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Initializing+Jarvis+Core...;Scanning+Repositories...;Status:+OPERATIONAL+%E2%9C%85;User:+OPS-Samurai" alt="Typing SVG" />
   </a>
 </div>
 
-> *Hinweis: Die Live-Statistiken sind derzeit aufgrund eines globalen API-Ausfalls deaktiviert (Maintenance Mode). Diagramme kehren zurück, sobald die Dienste stabil sind.*
-
-### 🔧 Workspace Architecture (Standard: C:\Git)
-All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
-
-| Repository | Focus & Purpose | Status |
-| :--- | :--- | :--- |
-| **[OPS-Systems](https://github.com/OPS-Samurai/OPS-Systems)** | Core configurations, profile logic & cross-platform sync. | `Stable` |
-| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers (YAML export) & network scanning tools. | `Active` |
-| **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for system auditing and red-teaming. | `Testing` |
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
 
 ---
 
-## ⚡ Current Focus & Personal
-- 🧠 Integrating local **System-DNA (YAML)** into AI-driven workflows (Gemini CLI).
-- 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
-- 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
-- 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
+<h3 align="center">🔧 Workspace Architecture (Standard: C:\Git)</h3>
+<p align="center">All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
+
+<div align="center">
+
+| Repository | Focus & Purpose | Status |
+| :--- | :--- | :--- |
+| **[OPS-Systems](https://github.com/OPS-Samurai/OPS-Systems)** | Core configurations & cross-platform sync. | `Stable` |
+| **[Python-Tools](https://github.com/OPS-Samurai/Python-Tools)** | Automation helpers & network scanning tools. | `Active` |
+| **[PowerShell-Offensive](https://github.com/OPS-Samurai/PowerShell-Offensive)** | Specialized scripts for auditing & red-teaming. | `Testing` |
+| **[OPS-Samurai](https://github.com/OPS-Samurai/OPS-Samurai)** | Profile repository & Central Documentation. | `Operational` |
+
+</div>
+
+---
+
+<h2 align="center">⚡ Current Focus & Personal</h2>
+<div align="center">
+  <ul style="display: inline-block; text-align: left;">
+    <li>🧠 Integrating local <b>System-DNA (YAML)</b> into AI workflows.</li>
+    <li>🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.</li>
+    <li>🔧 Precision mechanics meets PowerShell infrastructure.</li>
+    <li>🦸‍♂️ <b>Marvel & DC</b> enthusiast. Tactical gamer.</li>
+  </ul>
+</div>
+
+<p align="center">
+  <br>
+  <i>"I am Iron Man."</i> — Orchestrated by Jarvis AI.
+</p>
