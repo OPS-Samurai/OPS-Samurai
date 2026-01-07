@@ -81,13 +81,13 @@
 
 ---
 
-<h2 align="center">⚡ Current Focus & Personal</h2>
+<h3 align="center">⚡ Current Focus & Personal</h3>
 
 <div align="center">
   🧠 Integrating local <b>System-DNA (YAML)</b> into AI-driven workflows.<br>
   🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.<br>
   🔧 Precision mechanics meets PowerShell infrastructure.<br>
-  🦸‍♂️ <b>Marvel & DC</b> enthusiast.
+  🦸‍♂️ <b>Marvel & DC</b> enthusiast.<br>
   🎮 Tactical Gamer.
 </div>
 
