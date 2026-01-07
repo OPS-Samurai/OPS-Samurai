@@ -22,12 +22,12 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Systems & Operations**
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -47,11 +47,7 @@ I am a Senior SysAdmin with a passion for IT security and automation. My approac
   </a>
 </div>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
----
+> *Hinweis: Die Live-Statistiken sind derzeit aufgrund eines globalen API-Ausfalls deaktiviert (Maintenance Mode). Diagramme kehren zurück, sobald die Dienste stabil sind.*
 
 ### 🔧 Workspace Architecture (Standard: C:\Git)
 All systems are managed under **ISO/IEC 26514** compliant documentation standards. My local workspace is synchronized across 8 specialized repositories:
@@ -69,5 +65,3 @@ All systems are managed under **ISO/IEC 26514** compliant documentation standard
 - 🔭 Building a cross-platform **Jarvis Repository Dashboard** for real-time monitoring.
 - 🔧 From torque wrenches to PowerShell prompts: Applying the precision of a mechanic to high-scale IT infrastructure.
 - 🦸‍♂️ **Marvel & DC** enthusiast. Tactical gamer.
-> *"I am Iron Man."* — Orchestrated by Jarvis AI.
-
