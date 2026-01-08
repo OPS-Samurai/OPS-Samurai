@@ -11,6 +11,8 @@
   </p>
 </div>
 
+<hr>
+
 <div align="center">
   <h3>🤝 Connect & Network</h3>
   <a href="https://www.linkedin.com/in/IHR_LINK">
@@ -122,7 +124,6 @@
 </tbody>
 </table>
 </td>
-
 <td width="25%" align="center" valign="middle">
 <h4>SECOPS METRICS</h4>
 <br>
@@ -148,6 +149,8 @@
   <br><br>
   <i>"I am Iron Man."</i> — Orchestrated by Jarvis AI.
 </div>
+
+<hr>
 
 <div align="center">
   <h3>👀 Profile Traffic</h3>
