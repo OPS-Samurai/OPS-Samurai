@@ -11,6 +11,13 @@
   </p>
 </div>
 
+<div align="center">
+  <h3>🤝 Connect & Network</h3>
+  <a href="https://www.linkedin.com/in/IHR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 <hr>
 
 <div align="center">
@@ -27,6 +34,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/vmware-209EBB?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <br><br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
@@ -134,4 +147,9 @@
   
   <br><br>
   <i>"I am Iron Man."</i> — Orchestrated by Jarvis AI.
+</div>
+
+<div align="center">
+  <h3>👀 Profile Traffic</h3>
+  <img src="https://komarev.com/ghpvc/?username=IHR_GITHUB_USERNAME&style=for-the-badge&color=209EBB&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
