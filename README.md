@@ -15,7 +15,7 @@
 
 <div align="center">
   <h3>🤝 Connect & Network</h3>
-  <a href="https://www.linkedin.com/in/IHR_LINK">
+  <a href="https://www.linkedin.com/in/nelson-goncalves-ops">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
