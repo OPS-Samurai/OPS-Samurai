@@ -64,7 +64,6 @@
 <table width="100%" border="0">
 <tr>
 <td width="25%" align="center" valign="middle">
-<br>
 <h4>OPERATOR STATUS</h4>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=250&height=110&lines=SYSTEM:+ONLINE+%E2%9C%85;CAFFEINE:+95%25+%E2%98%95;MODE:+GAMING+%2F+ADMIN;TARGET:+DEPLOYMENT" alt="Typing SVG" /></a>
@@ -112,7 +111,6 @@
 </td>
 
 <td width="25%" align="center" valign="middle">
-<br>
 <h4>SECOPS METRICS</h4>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=E34F26&center=true&vCenter=true&width=250&height=110&lines=SCANNING+NETWORK...;THREATS:+NONE+%F0%9F%91%BB;DEFCON+LEVEL:+4+%F0%9F%94%92;FIREWALL:+ACTIVE" alt="Typing SVG" /></a>
