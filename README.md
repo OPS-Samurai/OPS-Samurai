@@ -154,5 +154,5 @@
 
 <div align="center">
   <h3>👀 Profile Traffic</h3>
-  <img src="https://komarev.com/ghpvc/?username=IHR_GITHUB_USERNAME&style=for-the-badge&color=209EBB&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OPS-Samurai&style=for-the-badge&color=209EBB&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
