@@ -157,12 +157,11 @@
 
 <br><br>
 <div align="center">
-  <i>"I see a suit of armor around the world."</i>
-  <br>
-  <b>— Tony Stark</b>
-  <br><br>
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFuaXQ4aThwd2QydnJ4dmd2cTB0c2x4cm1jYTZiZWEydXlhb2h6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif)" width="450" alt="Jarvis Interface" />
+  <i>"I see a suit of armor around the world. — Tony Stark"</i>
+ <div align="center">
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFuaXQ4aThwd2QydnJ4dmd2cTB0c2x4cm1jYTZiZWEydXlhb2h6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif)
 </div>
+
 
 <hr>
 
