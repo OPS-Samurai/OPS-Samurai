@@ -74,8 +74,6 @@
 
 <hr>
 
-<br>
-
 <div align="center">
 <h3>🔧 Workspace Architecture (Standard: C:\Git)</h3>
 <br>
