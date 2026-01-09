@@ -150,7 +150,18 @@
   🎮 Tactical Gamer.
 
   <br><br>
-  <i>"I am Iron Man."</i> — Orchestrated by Jarvis AI.
+  
+</div>
+
+<hr>
+
+<br><br>
+<div align="center">
+  <i>"I see a suit of armor around the world."</i>
+  <br>
+  <b>— Tony Stark</b>
+  <br><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5MmZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VfDqzZ3EBAZEk/giphy.gif" width="450" alt="Jarvis Interface" />
 </div>
 
 <hr>
