@@ -15,6 +15,7 @@
 
 <div align="center">
   <h3>🤝 Connect & Network</h3>
+  <br>
   <a href="https://www.linkedin.com/in/IHR_LINK">
   <a href="https://www.linkedin.com/in/nelson-goncalves-ops">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,6 +53,7 @@
 
 <div align="center">
   <h3>📚 Currently Learning & Improving</h3>
+  <br>
   <p><i>Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.</i></p>
 
   <b>Cybersecurity & Hacking:</b> Active studies via Udemy, LinkedIn Learning & Coursera.<br>
@@ -62,6 +64,7 @@
 
 <div align="center">
   <h3>📊 System Metrics & Infrastructure</h3>
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Initializing+Jarvis+Core...;Scanning+Repositories...;Status:+OPERATIONAL+%E2%9C%85;User:+OPS-Samurai" alt="Typing SVG" />
   </a>
@@ -75,6 +78,7 @@
 
 <div align="center">
 <h3>🔧 Workspace Architecture (Standard: C:\Git)</h3>
+<br>
 <p>All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
 <br>
 
@@ -143,6 +147,7 @@
 
 <div align="center">
   <h3>⚡ Current Focus & Personal</h3>
+  <br>
   🧠 Integrating local <b>System-DNA (YAML)</b> into AI-driven workflows.<br>
   🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.<br>
   🔧 Precision mechanics meets PowerShell infrastructure.<br>
