@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Hi there, I'm Nelson 👋</h2>
-  <p>
+  
     I am a Senior System Administrator with a passion for IT security and automation. My approach is structured and analytical, focusing on securing infrastructure and optimizing workflows through code. Currently transitioning my expertise towards offensive and defensive cybersecurity operations.
   </p>
 </div>
