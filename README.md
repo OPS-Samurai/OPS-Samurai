@@ -69,73 +69,70 @@
 </div>
 
 <hr>
-<br>
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <div align="center">
+        <b>OPERATOR<br>STATUS</b>
+        <br><br>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=180&height=100&lines=SYSTEM:ONLINE;TARGET:DEPL;MODE:ACTIVE" alt="Typing SVG" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/SENIOR-SYSADMIN-20C20E?style=for-the-badge" />
+      </div>
+    </td>
 
-<div align="center">
-<h3>🔧 Workspace Architecture (Standard: C:\Git)</h3>
-<p>All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
-<br>
+    <td width="60%" align="center" valign="top">
+      <h3>⚡ Mission Control Center</h3>
+      <table width="100%">
+        <tr>
+          <th width="30%">Repository</th>
+          <th width="50%">Focus & Purpose</th>
+          <th width="20%">Status</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/OPS-Samurai/OPS-Systems">OPS-Systems</a></td>
+          <td>Core configs & sync</td>
+          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/OPS-Samurai/Python-Tools">Python-Tools</a></td>
+          <td>Automation & extraction</td>
+          <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/OPS-Samurai/PowerShell-Toolkit">PowerShell-Toolkit</a></td>
+          <td>Admin & shell utilities</td>
+          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/OPS-Samurai/Network-Security-Tools">Net-Sec-Tools</a></td>
+          <td>Analysis & Hardening</td>
+          <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/OPS-Samurai/Bash-Toolkit">Bash-Toolkit</a></td>
+          <td>Linux Server Mgmt</td>
+          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
+        </tr>
+      </table>
+    </td>
 
-<table width="100%" border="0">
-<tr>
-<td width="25%" align="center" valign="middle">
-<h4>OPERATOR STATUS</h4>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=250&height=110&lines=SYSTEM:+ONLINE+%E2%9C%85;CAFFEINE:+95%25+%E2%98%95;MODE:+GAMING+%2F+ADMIN;TARGET:+DEPLOYMENT" alt="Typing SVG" /></a>
-<br><br>
-<img src="https://img.shields.io/badge/Rank-Senior_SysAdmin-success?style=for-the-badge&logo=linux" alt="Rank Badge">
-</td>
-
-<td align="center">
-<table border="0">
-<thead>
-<tr>
-<th align="left">Repository</th>
-<th align="left">Focus & Purpose</th>
-<th align="left">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://github.com/OPS-Samurai/OPS-Systems"><b>OPS-Systems</b></a></td>
-<td align="left">Core configurations & cross-platform sync.</td>
-<td align="left"><code>Stable</code></td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/OPS-Samurai/Python-Tools"><b>Python-Tools</b></a></td>
-<td align="left">Automation helpers & data extraction.</td>
-<td align="left"><code>Active</code></td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/OPS-Samurai/PowerShell-Toolkit"><b>PowerShell-Toolkit</b></a></td>
-<td align="left">General administration & shell utilities.</td>
-<td align="left"><code>Stable</code></td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/OPS-Samurai/Network-Security-Tools"><b>Network-Security-Tools</b></a></td>
-<td align="left">Public network analysis & hardening tools.</td>
-<td align="left"><code>Active</code></td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/OPS-Samurai/Bash-Toolkit"><b>Bash-Toolkit</b></a></td>
-<td align="left">Linux automation & server management scripts.</td>
-<td align="left"><code>Stable</code></td>
-</tr>
-</tbody>
+    <td width="20%" align="center" valign="middle">
+      <div align="center">
+        <b>SECOPS<br>METRICS</b>
+        <br><br>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F24E1E&center=true&vCenter=true&width=180&height=100&lines=FIREWALL:ON;IDS:ACTIVE;SCOPE:WATCHDOG" alt="Typing SVG" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/SCOPE-WATCHDOG-F24E1E?style=for-the-badge" />
+      </div>
+    </td>
+  </tr>
 </table>
-</td>
-<td width="25%" align="center" valign="middle">
-<h4>SECOPS METRICS</h4>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=E34F26&center=true&vCenter=true&width=250&height=110&lines=SCANNING+NETWORK...;THREATS:+NONE+%F0%9F%91%BB;DEFCON+LEVEL:+4+%F0%9F%94%92;FIREWALL:+ACTIVE" alt="Typing SVG" /></a>
-<br><br>
-<img src="https://img.shields.io/badge/SecOps-WATCHDOG_ACTIVE-critical?style=for-the-badge&logo=kalilinux" alt="SecOps Badge">
-</td>
-</tr>
-</table>
-</div>
 
-<br>
 <hr>
 
 <div align="center">
