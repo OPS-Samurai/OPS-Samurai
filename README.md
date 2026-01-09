@@ -15,6 +15,7 @@
 
 <div align="center">
   <h3>🤝 Connect & Network</h3>
+  <a href="https://www.linkedin.com/in/IHR_LINK">
   <a href="https://www.linkedin.com/in/nelson-goncalves-ops">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -52,7 +53,7 @@
 <div align="center">
   <h3>📚 Currently Learning & Improving</h3>
   <p><i>Deep diving into Cyber Defense, Pentesting, and Advanced Scripting.</i></p>
-  
+
   <b>Cybersecurity & Hacking:</b> Active studies via Udemy, LinkedIn Learning & Coursera.<br>
   <b>Methodology:</b> OSINT, Network Analysis, System Hardening.
 </div>
@@ -69,56 +70,73 @@
 </div>
 
 <hr>
+<br>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="25%" align="center" valign="middle">
-        <b>OPERATOR STATUS</b>
-        <br><br>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20C20E&center=true&vCenter=true&width=180&height=50&lines=SYSTEM:ONLINE;TARGET:DEPL" alt="Typing SVG" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/SYSADMIN-ACTIVE-20C20E?style=for-the-badge" />
-      </td>
+<h3>🔧 Workspace Architecture (Standard: C:\Git)</h3>
+<p>All systems are managed under <b>ISO/IEC 26514</b> compliant documentation standards.</p>
+<br>
 
-      <td width="50%" align="center" valign="top">
-        <h3>⚡ Mission Control Center</h3>
-        <a href="https://github.com/OPS-Samurai/OPS-Systems">
-          <img src="https://img.shields.io/badge/OPS--Systems-Core_Config-30363D?style=flat-square&logo=github"/>
-        </a>
-        <br>
-        <a href="https://github.com/OPS-Samurai/Python-Tools">
-          <img src="https://img.shields.io/badge/Python--Tools-Automation-20C20E?style=flat-square&logo=python"/>
-        </a>
-        <br>
-        <a href="https://github.com/OPS-Samurai/PowerShell-Toolkit">
-          <img src="https://img.shields.io/badge/PowerShell--Toolkit-Admin_Utils-30363D?style=flat-square&logo=powershell"/>
-        </a>
-        <br>
-        <a href="https://github.com/OPS-Samurai/Network-Security-Tools">
-          <img src="https://img.shields.io/badge/Net--Sec--Tools-Hardening-20C20E?style=flat-square&logo=kalilinux"/>
-        </a>
-        <br>
-        <a href="https://github.com/OPS-Samurai/Bash-Toolkit">
-          <img src="https://img.shields.io/badge/Bash--Toolkit-Linux_Mgmt-30363D?style=flat-square&logo=gnu-bash"/>
-        </a>
-      </td>
+<table width="100%" border="0">
+<tr>
+<td width="25%" align="center" valign="middle">
+<h4>OPERATOR STATUS</h4>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&width=250&height=110&lines=SYSTEM:+ONLINE+%E2%9C%85;CAFFEINE:+95%25+%E2%98%95;MODE:+GAMING+%2F+ADMIN;TARGET:+DEPLOYMENT" alt="Typing SVG" /></a>
+<br><br>
+<img src="https://img.shields.io/badge/Rank-Senior_SysAdmin-success?style=for-the-badge&logo=linux" alt="Rank Badge">
+</td>
 
-      <td width="25%" align="center" valign="middle">
-        <b>SECOPS METRICS</b>
-        <br><br>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F24E1E&center=true&vCenter=true&width=180&height=50&lines=FIREWALL:ON;IDS:ACTIVE" alt="Typing SVG" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/SCOPE-WATCHDOG-F24E1E?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
+<td align="center">
+<table border="0">
+<thead>
+<tr>
+<th align="left">Repository</th>
+<th align="left">Focus & Purpose</th>
+<th align="left">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="https://github.com/OPS-Samurai/OPS-Systems"><b>OPS-Systems</b></a></td>
+<td align="left">Core configurations & cross-platform sync.</td>
+<td align="left"><code>Stable</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/OPS-Samurai/Python-Tools"><b>Python-Tools</b></a></td>
+<td align="left">Automation helpers & data extraction.</td>
+<td align="left"><code>Active</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/OPS-Samurai/PowerShell-Toolkit"><b>PowerShell-Toolkit</b></a></td>
+<td align="left">General administration & shell utilities.</td>
+<td align="left"><code>Stable</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/OPS-Samurai/Network-Security-Tools"><b>Network-Security-Tools</b></a></td>
+<td align="left">Public network analysis & hardening tools.</td>
+<td align="left"><code>Active</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/OPS-Samurai/Bash-Toolkit"><b>Bash-Toolkit</b></a></td>
+<td align="left">Linux automation & server management scripts.</td>
+<td align="left"><code>Stable</code></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="25%" align="center" valign="middle">
+<h4>SECOPS METRICS</h4>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=E34F26&center=true&vCenter=true&width=250&height=110&lines=SCANNING+NETWORK...;THREATS:+NONE+%F0%9F%91%BB;DEFCON+LEVEL:+4+%F0%9F%94%92;FIREWALL:+ACTIVE" alt="Typing SVG" /></a>
+<br><br>
+<img src="https://img.shields.io/badge/SecOps-WATCHDOG_ACTIVE-critical?style=for-the-badge&logo=kalilinux" alt="SecOps Badge">
+</td>
+</tr>
+</table>
 </div>
 
+<br>
 <hr>
 
 <div align="center">
@@ -128,7 +146,7 @@
   🔧 Precision mechanics meets PowerShell infrastructure.<br>
   🦸‍♂️ <b>Marvel & DC</b> enthusiast.<br>
   🎮 Tactical Gamer.
-  
+
   <br><br>
   <i>"I am Iron Man."</i> — Orchestrated by Jarvis AI.
 </div>
