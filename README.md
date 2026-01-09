@@ -69,6 +69,7 @@
 </div>
 
 <hr>
+
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
