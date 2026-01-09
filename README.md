@@ -147,10 +147,7 @@
   🔭 Building a cross-platform <b>Jarvis Repository Dashboard</b>.<br>
   🔧 Precision mechanics meets PowerShell infrastructure.<br>
   🦸‍♂️ <b>Marvel & DC</b> enthusiast.<br>
-  🎮 Tactical Gamer.
-
-  <br><br>
-  
+  🎮 Tactical Gamer.  
 </div>
 
 <hr>
@@ -162,7 +159,6 @@
   <br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFuaXQ4aThwd2QydnJ4dmd2cTB0c2x4cm1jYTZiZWEydXlhb2h6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif" width="450" alt="Jarvis Interface" />
 </div>
-
 
 <hr>
 
