@@ -70,69 +70,54 @@
 
 <hr>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <div align="center">
-        <b>OPERATOR<br>STATUS</b>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="25%" align="center" valign="middle">
+        <b>OPERATOR STATUS</b>
         <br><br>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=180&height=100&lines=SYSTEM:ONLINE;TARGET:DEPL;MODE:ACTIVE" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20C20E&center=true&vCenter=true&width=180&height=50&lines=SYSTEM:ONLINE;TARGET:DEPL" alt="Typing SVG" />
         </a>
         <br>
-        <img src="https://img.shields.io/badge/SENIOR-SYSADMIN-20C20E?style=for-the-badge" />
-      </div>
-    </td>
+        <img src="https://img.shields.io/badge/SYSADMIN-ACTIVE-20C20E?style=for-the-badge" />
+      </td>
 
-    <td width="50%" align="center" valign="top">
-      <h3>⚡ Mission Control Center</h3>
-      <table width="100%">
-        <tr>
-          <th width="35%">Repository</th>
-          <th width="45%">Purpose</th>
-          <th width="20%">Status</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/OPS-Samurai/OPS-Systems">OPS-Systems</a></td>
-          <td>Core configs & sync</td>
-          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/OPS-Samurai/Python-Tools">Python-Tools</a></td>
-          <td>Automation helpers</td>
-          <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/OPS-Samurai/PowerShell-Toolkit">PowerShell-Toolkit</a></td>
-          <td>Admin utilities</td>
-          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/OPS-Samurai/Network-Security-Tools">Net-Sec-Tools</a></td>
-          <td>Hardening Tools</td>
-          <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/OPS-Samurai/Bash-Toolkit">Bash-Toolkit</a></td>
-          <td>Linux Server Mgmt</td>
-          <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
-        </tr>
-      </table>
-    </td>
+      <td width="50%" align="center" valign="top">
+        <h3>⚡ Mission Control Center</h3>
+        <a href="https://github.com/OPS-Samurai/OPS-Systems">
+          <img src="https://img.shields.io/badge/OPS--Systems-Core_Config-30363D?style=flat-square&logo=github"/>
+        </a>
+        <br>
+        <a href="https://github.com/OPS-Samurai/Python-Tools">
+          <img src="https://img.shields.io/badge/Python--Tools-Automation-20C20E?style=flat-square&logo=python"/>
+        </a>
+        <br>
+        <a href="https://github.com/OPS-Samurai/PowerShell-Toolkit">
+          <img src="https://img.shields.io/badge/PowerShell--Toolkit-Admin_Utils-30363D?style=flat-square&logo=powershell"/>
+        </a>
+        <br>
+        <a href="https://github.com/OPS-Samurai/Network-Security-Tools">
+          <img src="https://img.shields.io/badge/Net--Sec--Tools-Hardening-20C20E?style=flat-square&logo=kalilinux"/>
+        </a>
+        <br>
+        <a href="https://github.com/OPS-Samurai/Bash-Toolkit">
+          <img src="https://img.shields.io/badge/Bash--Toolkit-Linux_Mgmt-30363D?style=flat-square&logo=gnu-bash"/>
+        </a>
+      </td>
 
-    <td width="25%" align="center" valign="middle">
-      <div align="center">
-        <b>SECOPS<br>METRICS</b>
+      <td width="25%" align="center" valign="middle">
+        <b>SECOPS METRICS</b>
         <br><br>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F24E1E&center=true&vCenter=true&width=180&height=100&lines=FIREWALL:ON;IDS:ACTIVE;SCOPE:WATCHDOG" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F24E1E&center=true&vCenter=true&width=180&height=50&lines=FIREWALL:ON;IDS:ACTIVE" alt="Typing SVG" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/SCOPE-WATCHDOG-F24E1E?style=for-the-badge" />
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
