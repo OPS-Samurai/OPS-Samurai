@@ -161,7 +161,7 @@
   <br>
   <b>— Tony Stark</b>
   <br><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5Y3RxeXlzMmZ5MmZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VfDqzZ3EBAZEk/giphy.gif" width="450" alt="Jarvis Interface" />
+  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFuaXQ4aThwd2QydnJ4dmd2cTB0c2x4cm1jYTZiZWEydXlhb2h6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif)" width="450" alt="Jarvis Interface" />
 </div>
 
 <hr>
