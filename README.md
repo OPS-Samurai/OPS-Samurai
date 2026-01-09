@@ -155,7 +155,6 @@
 
 <hr>
 
-<br><br>
 <div align="center">
   <i>"I see a suit of armor around the world."</i>
   <br>
