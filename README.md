@@ -72,7 +72,7 @@
 
 <table width="100%">
   <tr>
-    <td width="20%" align="center" valign="middle">
+    <td width="25%" align="center" valign="middle">
       <div align="center">
         <b>OPERATOR<br>STATUS</b>
         <br><br>
@@ -84,12 +84,12 @@
       </div>
     </td>
 
-    <td width="60%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>⚡ Mission Control Center</h3>
       <table width="100%">
         <tr>
-          <th width="30%">Repository</th>
-          <th width="50%">Focus & Purpose</th>
+          <th width="35%">Repository</th>
+          <th width="45%">Purpose</th>
           <th width="20%">Status</th>
         </tr>
         <tr>
@@ -99,17 +99,17 @@
         </tr>
         <tr>
           <td><a href="https://github.com/OPS-Samurai/Python-Tools">Python-Tools</a></td>
-          <td>Automation & extraction</td>
+          <td>Automation helpers</td>
           <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
         </tr>
         <tr>
           <td><a href="https://github.com/OPS-Samurai/PowerShell-Toolkit">PowerShell-Toolkit</a></td>
-          <td>Admin & shell utilities</td>
+          <td>Admin utilities</td>
           <td><img src="https://img.shields.io/badge/Stable-30363D?style=flat-square"/></td>
         </tr>
         <tr>
           <td><a href="https://github.com/OPS-Samurai/Network-Security-Tools">Net-Sec-Tools</a></td>
-          <td>Analysis & Hardening</td>
+          <td>Hardening Tools</td>
           <td><img src="https://img.shields.io/badge/Active-20C20E?style=flat-square"/></td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@
       </table>
     </td>
 
-    <td width="20%" align="center" valign="middle">
+    <td width="25%" align="center" valign="middle">
       <div align="center">
         <b>SECOPS<br>METRICS</b>
         <br><br>
